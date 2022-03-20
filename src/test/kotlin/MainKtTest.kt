@@ -15,7 +15,7 @@ class MainKtTest {
         )
 
         // assert
-        assertEquals(15, result)
+        assertEquals(25, result)
 
     }
 }
