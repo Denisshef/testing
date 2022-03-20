@@ -4,5 +4,5 @@ fun main() {
 }
 
 fun test(i: Int): Int {
-   return i + 10
+   return i + 20
 }
