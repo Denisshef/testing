@@ -1,8 +1,8 @@
-
 fun main() {
-   test(5)
-}
+    val postParent = Post()
+    val post = PostChild(1)
 
-fun test(i: Int): Int {
-   return i + 20
+
+    println(postParent.like)
+    println(post.like)
 }

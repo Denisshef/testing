@@ -1,0 +1,1 @@
+open class Post(var like: Int = 50)
